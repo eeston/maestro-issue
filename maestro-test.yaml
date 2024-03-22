@@ -1,0 +1,8 @@
+appId: host.exp.Exponent
+---
+- tapOn: "Marker 0"
+- tapOn: "Marker 1"
+- tapOn: "Marker 2"
+- tapOn: "Marker 3"
+- tapOn: "Marker 4"
+
